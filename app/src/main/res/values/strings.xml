@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Dynamic Island</string>
+    <string name="notification_service_label">خدمة إشعارات الجزيرة التفاعلية</string>
+    <string name="notification_channel_name">خدمة الجزيرة التفاعلية</string>
+    <string name="notification_channel_desc">إشعار التشغيل المستمر للجزيرة التفاعلية فوق الشاشة</string>
+    <string name="service_running_title">الجزيرة التفاعلية قيد التشغيل</string>
+    <string name="service_running_text">انقر للتحكم في الإعدادات والتخصيص</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="tab_dashboard">الرئيسية</string>
+    <string name="tab_simulator">المحاكي المباشر</string>
+    <string name="tab_customizer">التخصيص والموضع</string>
+    <string name="tab_modules">الوحدات والميزات</string>
+
+    <!-- Permissions -->
+    <string name="permission_overlay_title">إذن الظهور فوق التطبيقات (Overlay)</string>
+    <string name="permission_overlay_desc">مطلوب لعرض الجزيرة التفاعلية فوق شريط الحالة وباقي التطبيقات</string>
+    <string name="permission_notification_title">إذن قراءة الإشعارات والموسيقى</string>
+    <string name="permission_notification_desc">مطلوب لعرض مشغل الوسائط ورسائل الواتساب والتطبيقات في الجزيرة</string>
+    <string name="grant_permission">منح الإذن</string>
+    <string name="permission_granted">ممنوح ✓</string>
+
+    <!-- Status -->
+    <string name="service_active">الجزيرة التفاعلية نشطة</string>
+    <string name="service_inactive">الجزيرة التفاعلية متوقفة</string>
+    <string name="start_service">تشغيل الجزيرة</string>
+    <string name="stop_service">إيقاف الجزيرة</string>
+
+    <!-- Simulator -->
+    <string name="sim_music">تشغيل أغنية</string>
+    <string name="sim_charging">شحن البطارية</string>
+    <string name="sim_notification">رسالة واتساب</string>
+    <string name="sim_call">مكالمة واردة</string>
+    <string name="sim_timer">مؤقت زمني</string>
+    <string name="sim_bluetooth">سماعات AirPods</string>
+    <string name="sim_battery_low">بطارية منخفضة</string>
+    <string name="sim_silent_mode">الوضع الصامت</string>
+    <string name="sim_dismiss_all">إخفاء الكل</string>
+
+    <!-- Settings & Customization -->
+    <string name="notch_position">موضع فتحة الكاميرا</string>
+    <string name="position_center">في المنتصف</string>
+    <string name="position_left">على اليسار</string>
+    <string name="position_right">على اليمين</string>
+    <string name="pill_width">عرض الجزيرة</string>
+    <string name="pill_height">ارتفاع الجزيرة</string>
+    <string name="pill_y_offset">المسافة من الأعلى (Y Offset)</string>
+    <string name="pill_x_offset">الإزاحة الأفقية (X Offset)</string>
+    <string name="corner_radius">استدارة الحواف</string>
+    <string name="haptic_feedback">الاهتزاز اللمسي (Haptics)</string>
+    <string name="show_glow">توهج وحواف أنيقة</string>
+    <string name="dual_pill_mode">دعم الجزيرة المزدوجة (Dual Island)</string>
+    <string name="auto_hide_delay">مدة الاختفاء التلقائي</string>
+</resources>

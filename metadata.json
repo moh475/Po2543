@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Island",
+  "description": "تطبيق الجزيرة التفاعلية (Dynamic Island) الذكي لأندرويد - مشغل موسيقى، تنبيهات الشحن والمكالمات، إشعارات تفاعلية، وتخصيص دقيق لفتحة الكاميرا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
